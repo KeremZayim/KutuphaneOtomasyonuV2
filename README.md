@@ -6,7 +6,7 @@ Yeni Arayüzlü Kütüphane Arayüzü (C#) Microsoft SQL 2019 Server
 <p>Microsoft 2019 SQL Server İle Çalışmaktadır.
 <p>.NET Framework 4.7.2
 <p>
-  
+![Form Arayuz](/ArayuzResimleri/KitapIslemleri.png)
   <table>
     <tr>
       <h2> NuGet Paketleri </h2>
@@ -22,3 +22,5 @@ Yeni Arayüzlü Kütüphane Arayüzü (C#) Microsoft SQL 2019 Server
 <p>SQL Bağlantısını <b>Classes</b> Dosyasındaki <b>SqlConnection.cs</b> Dosyasından Ayarlayabilirsiniz.
   <h2>Yapımcısı</h2>
 <p><b>Kerem Zayim</b> Tarafından Yapılmıştır!
+
+  
