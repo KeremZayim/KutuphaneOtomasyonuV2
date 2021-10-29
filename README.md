@@ -12,7 +12,7 @@ Yeni Arayüzlü Kütüphane Arayüzü (C#) Microsoft SQL 2019 Server
 
 <p> Kitap İşlemleri Arayüzü
   
-![Kitap İşlemleri](https://user-images.githubusercontent.com/52594928/139429649-910e7796-ddc4-4f54-ad06-baeb31685740.png)
+![Kitap İşlemleri Arayüzü](https://user-images.githubusercontent.com/52594928/139431904-79414f9c-706c-4b94-a8d9-4b9529930d38.png)
 
 <p> Kitap Ekle Arayüzü
   
